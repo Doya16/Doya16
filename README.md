@@ -1,10 +1,13 @@
 # 👋 Hi, I'm Doya16 / 你好，我是 Doya16
 
-🎯 I'm a machine learning enthusiast from Irvine, California.  
-🎯 我是来自加州大学欧文分校的机器学习爱好者。  
+🎓 I'm an undergraduate majoring in **Data Science** at the University of California, Irvine (UCI).  
+🎓 我是加州大学欧文分校（UCI）数据科学专业的本科生。
 
-🧠 I enjoy neural network modeling and Kaggle competitions.  
-🧠 我喜欢神经网络建模与参与 Kaggle 比赛。
+📊 With a solid background in statistics, machine learning, and programming, I enjoy building AI applications that solve real-world problems.  
+📊 拥有扎实的数据分析、机器学习与编程能力，热衷于用 AI 解决现实问题。
+
+🧠 I particularly enjoy neural network modeling, chatbots, and Kaggle competitions.  
+🧠 我尤其喜欢神经网络建模、聊天机器人与 Kaggle 挑战。
 
 ---
 
@@ -29,16 +32,12 @@
 Although not all papers are groundbreaking, they represent my early exploration in applied machine learning.  
 尽管这些研究不一定具有重大突破，但它们记录了我在人工智能实践中的早期尝试。
 
----
-
 ### 🧠 Suicide Tweet Detection Based on AI Algorithms  
 **First Author & Corresponding Author**  
 [📄 DOI: 10.54254/2755-2721/55/20241512](https://doi.org/10.54254/2755-2721/55/20241512)
 
 A full-stack text classification project for identifying suicidal expressions in tweets.  
 使用文本分类方法识别推文中的自杀倾向，是我首次完整主导的研究项目。
-
----
 
 ### 📊 Post-COVID EdTech Acceptance via Clustering  
 **Second Author**  
@@ -51,9 +50,17 @@ Clustered survey data to understand changes in user behavior toward e-learning t
 
 ## 🛠️ Tech Stack / 技术栈
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![NoneBot](https://img.shields.io/badge/NoneBot2-green?style=flat&logo=botpress)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,nonebot,pytorch,tensorflow,sklearn,git,github,vscode" />
+</p>
+
+---
+
+## 📈 GitHub Stats / 代码活跃度
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Doya16&show_icons=true&theme=github_dark" />
+</p>
 
 ---
 
