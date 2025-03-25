@@ -51,7 +51,7 @@ Clustered survey data to understand changes in user behavior toward e-learning t
 ## 🛠️ Tech Stack / 技术栈
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,nonebot,pytorch,tensorflow,sklearn,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,tensorflow,sklearn,git,github,vscode" />
 </p>
 
 ---
