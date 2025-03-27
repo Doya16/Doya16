@@ -39,9 +39,10 @@
 
 Here are a few repositories I'm actively maintaining:
 
-- [JM Bot 插件](https://github.com/Doya16/Nonebot-Napcat-JMcomic-Bot) 
-- [Nonebot Pixiv 插件](https://github.com/Doya16/Nonebot-Napcat-pixivAPI)
+- [NonebotJM打包Bot 插件](https://github.com/Doya16/Nonebot-Napcat-JMcomic-Bot) 
+- [Nonebot Pixiv 插图推送插件](https://github.com/Doya16/Nonebot-Napcat-pixivAPI)
 - [Kaggle AI Text Detector](https://github.com/Doya16/KaggleBronze_AIJC_detector)
+- [Nonebot 今日运势插件](https://github.com/Doya16/NoneBot-Daily-fate-sage)
 
 ---
 
