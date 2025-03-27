@@ -31,6 +31,16 @@
 
 ---
 
+## 📂 Open Source Projects
+
+Here are a few repositories I'm actively maintaining:
+
+- [JM Bot 插件](https://github.com/Doya16/jm_bot)
+- [Nonebot Pixiv 插件](https://github.com/Doya16/Nonebot-Napcat-pixivAPI)
+- [Kaggle AI Text Detector](https://github.com/Doya16/KaggleBronze_AIJC_detector)
+
+---
+
 ## 📄 Academic Exploration / 学术尝试
 
 Although not all papers are groundbreaking, they represent my early exploration in applied machine learning.  
@@ -74,10 +84,6 @@ Clustered survey data to understand changes in user behavior toward e-learning t
 - 🐧 QQ: 私聊可提供
 
 ---
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Nonebot2](https://img.shields.io/badge/-Nonebot2-3fc3ff?style=flat-square)
-![Pillow](https://img.shields.io/badge/-Pillow-cc6699?style=flat-square)
-![Jmcomic](https://img.shields.io/badge/-jmcomic-lightgrey?style=flat-square)
 
 
 _This profile README is powered by 💖 and open source passion._  
