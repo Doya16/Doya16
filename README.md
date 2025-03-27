@@ -25,7 +25,7 @@
   Experimenting with Text-to-Speech + GPT models for voice interaction.  
   本地搭建的 TTS + GPT 语音聊天系统（目前保存在百度云盘）
   
-- 📚 [JM Bot 插件](https://github.com/Doya16/jm_bot)  
+- 📚 [JM Bot 插件](https://github.com/Doya16/Nonebot-Napcat-JMcomic-Bot)  
   A Nonebot2 plugin that downloads, converts, and sends doujin manga from JM via QQ commands.  
   基于 Nonebot2 的绅士本子下载机器人插件，支持自动打包为 PDF 或 ZIP 并上传到 QQ 群。
 
@@ -35,7 +35,7 @@
 
 Here are a few repositories I'm actively maintaining:
 
-- [JM Bot 插件](https://github.com/Doya16/jm_bot)
+- [JM Bot 插件](https://github.com/Doya16/Nonebot-Napcat-JMcomic-Bot) 
 - [Nonebot Pixiv 插件](https://github.com/Doya16/Nonebot-Napcat-pixivAPI)
 - [Kaggle AI Text Detector](https://github.com/Doya16/KaggleBronze_AIJC_detector)
 
