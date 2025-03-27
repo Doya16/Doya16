@@ -17,6 +17,10 @@
   A QQ bot plugin for fetching Pixiv illustrations using ranking, keywords, or user ID.  
   基于 Nonebot 的 QQ 机器人插件，支持 Pixiv 插图搜索、排行榜与用户投稿获取。
 
+- 🔮 [每日运势插件](https://github.com/Doya16/NoneBot-Daily-fate-sage)  
+  A NoneBot2 plugin for daily fortune-telling based on random scores and poetic scripts.  
+  每日抽取一次古风签文运势，支持缓存机制与九级评分体系。
+
 - 🥇 [Kaggle AI 文本识别](https://github.com/Doya16/KaggleBronze_AIJC_detector)  
   Top 9% solution for the AI-generated text detection challenge.  
   Kaggle AI 文本检测挑战赛铜奖，排名前 9%。
