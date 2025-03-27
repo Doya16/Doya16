@@ -24,6 +24,10 @@
 - 🧪 GPT+TTS Chatbot (本地项目)  
   Experimenting with Text-to-Speech + GPT models for voice interaction.  
   本地搭建的 TTS + GPT 语音聊天系统（目前保存在百度云盘）
+  
+- 📚 [JM Bot 插件](https://github.com/Doya16/jm_bot)  
+  A Nonebot2 plugin that downloads, converts, and sends doujin manga from JM via QQ commands.  
+  基于 Nonebot2 的绅士本子下载机器人插件，支持自动打包为 PDF 或 ZIP 并上传到 QQ 群。
 
 ---
 
@@ -70,6 +74,11 @@ Clustered survey data to understand changes in user behavior toward e-learning t
 - 🐧 QQ: 私聊可提供
 
 ---
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Nonebot2](https://img.shields.io/badge/-Nonebot2-3fc3ff?style=flat-square)
+![Pillow](https://img.shields.io/badge/-Pillow-cc6699?style=flat-square)
+![Jmcomic](https://img.shields.io/badge/-jmcomic-lightgrey?style=flat-square)
+
 
 _This profile README is powered by 💖 and open source passion._  
 _本主页由热情与开源精神驱动 ✨_
