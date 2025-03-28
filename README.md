@@ -21,6 +21,10 @@
   A NoneBot2 plugin for daily fortune-telling based on random scores and poetic scripts.  
   每日抽取一次古风签文运势，支持缓存机制与九级评分体系。
 
+- 📢 [群公告广播插件](https://github.com/Doya16/Nonebot-plugin-group-announcement)  
+  A NoneBot2 plugin that allows the admin to send announcements via private chat to all groups.  
+  支持管理员私聊指令发送群公告，一键广播至所有群聊。
+
 - 🥇 [Kaggle AI 文本识别](https://github.com/Doya16/KaggleBronze_AIJC_detector)  
   Top 9% solution for the AI-generated text detection challenge.  
   Kaggle AI 文本检测挑战赛铜奖，排名前 9%。
@@ -43,6 +47,7 @@ Here are a few repositories I'm actively maintaining:
 - [Nonebot Pixiv 插图推送插件](https://github.com/Doya16/Nonebot-Napcat-pixivAPI)
 - [Kaggle AI Text Detector](https://github.com/Doya16/KaggleBronze_AIJC_detector)
 - [Nonebot 今日运势插件](https://github.com/Doya16/NoneBot-Daily-fate-sage)
+- [Nonebot 群公告插件](https://github.com/Doya16/Nonebot-plugin-group-announcement)
 
 ---
 
@@ -89,7 +94,6 @@ Clustered survey data to understand changes in user behavior toward e-learning t
 - 🐧 QQ: 私聊可提供
 
 ---
-
 
 _This profile README is powered by 💖 and open source passion._  
 _本主页由热情与开源精神驱动 ✨_
