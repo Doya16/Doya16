@@ -13,9 +13,25 @@
 
 ## 🔧 Projects / 项目展示
 
+- 🧪 GPT+TTS Chatbot (本地项目)  
+  Experimenting with Text-to-Speech + GPT models for voice interaction.  
+  本地搭建的 TTS + GPT 语音聊天系统（目前保存在百度云盘）
+
+- 🥇 [Kaggle AI 文本识别](https://github.com/Doya16/KaggleBronze_AIJC_detector)  
+  Top 9% solution for the AI-generated text detection challenge.  
+  Kaggle AI 文本检测挑战赛铜奖，排名前 9%。
+
 - 🔍 [Nonebot Pixiv 插件](https://github.com/Doya16/Nonebot-Napcat-pixivAPI)  
   A QQ bot plugin for fetching Pixiv illustrations using ranking, keywords, or user ID.  
   基于 Nonebot 的 QQ 机器人插件，支持 Pixiv 插图搜索、排行榜与用户投稿获取。
+
+- 📚 [JM Bot 插件](https://github.com/Doya16/Nonebot-Napcat-JMcomic-Bot)  
+  A Nonebot2 plugin that downloads, converts, and sends doujin manga from JM via QQ commands.  
+  基于 Nonebot2 的绅士本子下载机器人插件，支持自动打包为 PDF 或 ZIP 并上传到 QQ 群。
+
+- 📝 [Arxiv Search 插件](https://github.com/Doya16/Nonebot-Plugin-Arxiv-Paper-Search)
+  A NoneBot2 plugin for fetching latest papers from arXiv by category.
+  一个基于 NoneBot2 的插件，可按分类获取 arXiv 最新论文。
 
 - 🔮 [每日运势插件](https://github.com/Doya16/NoneBot-Daily-fate-sage)  
   A NoneBot2 plugin for daily fortune-telling based on random scores and poetic scripts.  
@@ -25,25 +41,14 @@
   A NoneBot2 plugin that allows the admin to send announcements via private chat to all groups.  
   支持管理员私聊指令发送群公告，一键广播至所有群聊。
 
-- 🥇 [Kaggle AI 文本识别](https://github.com/Doya16/KaggleBronze_AIJC_detector)  
-  Top 9% solution for the AI-generated text detection challenge.  
-  Kaggle AI 文本检测挑战赛铜奖，排名前 9%。
-
-- 🧪 GPT+TTS Chatbot (本地项目)  
-  Experimenting with Text-to-Speech + GPT models for voice interaction.  
-  本地搭建的 TTS + GPT 语音聊天系统（目前保存在百度云盘）
-  
-- 📚 [JM Bot 插件](https://github.com/Doya16/Nonebot-Napcat-JMcomic-Bot)  
-  A Nonebot2 plugin that downloads, converts, and sends doujin manga from JM via QQ commands.  
-  基于 Nonebot2 的绅士本子下载机器人插件，支持自动打包为 PDF 或 ZIP 并上传到 QQ 群。
-
 ---
 
 ## 📂 Open Source Projects/ 开源项目
 
 Here are a few repositories I'm actively maintaining:
 
-- [NonebotJM打包Bot 插件](https://github.com/Doya16/Nonebot-Napcat-JMcomic-Bot) 
+- [NonebotJM打包Bot 插件](https://github.com/Doya16/Nonebot-Napcat-JMcomic-Bot)
+- [Arxiv Search 插件](https://github.com/Doya16/Nonebot-Plugin-Arxiv-Paper-Search)
 - [Nonebot Pixiv 插图推送插件](https://github.com/Doya16/Nonebot-Napcat-pixivAPI)
 - [Kaggle AI Text Detector](https://github.com/Doya16/KaggleBronze_AIJC_detector)
 - [Nonebot 今日运势插件](https://github.com/Doya16/NoneBot-Daily-fate-sage)
