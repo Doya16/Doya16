@@ -26,7 +26,7 @@
   基于 Nonebot 的 QQ 机器人插件，支持 Pixiv 插图搜索、排行榜与用户投稿获取。
 
 - 📚 [JM Bot 插件](https://github.com/Doya16/Nonebot-Napcat-JMcomic-Bot)  
-  A Nonebot2 plugin that downloads, converts, and sends doujin manga from JM via QQ commands.  
+  A Nonebot2 plugin that downloads, converts, and sends PDF books from JM via QQ commands.  
   基于 Nonebot2 的绅士本子下载机器人插件，支持自动打包为 PDF 或 ZIP 并上传到 QQ 群。
 
 - 📝 [Arxiv Search 插件](https://github.com/Doya16/Nonebot-Plugin-Arxiv-Paper-Search)
